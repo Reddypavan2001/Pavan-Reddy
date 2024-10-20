@@ -1,8 +1,21 @@
 <h1 align="center">Hi 👋, I'm Pavan Ragavendra Reddy Usirika</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
+- 🔭 I’m currently working on **Confsec**
+
+- 👯 I’m looking to collaborate on **Data analyst and ML projects.**
+
+- 💬 Ask me about **Data related and ML**
+
+- 📫 How to reach me **pavanreddyu.24@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/ps2414/](https://www.linkedin.com/in/ps2414/)
+
+- ⚡ Fun fact **I have lot of patience to deal**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/pavan ragavendra reddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan ragavendra reddy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
